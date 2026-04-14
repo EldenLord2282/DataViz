@@ -101,3 +101,8 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 Developed as a mini project for academic and learning purposes.
+
+
+<img width="875" height="703" alt="Screenshot 2026-04-14 122704" src="https://github.com/user-attachments/assets/6df35bbe-24f5-4ed5-9e01-3ae41f89afac" />
+<img width="727" height="372" alt="Screenshot 2026-04-14 122729" src="https://github.com/user-attachments/assets/bf1010a0-c3d2-45ec-bb92-9c78b77f36ef" />
+<img width="1465" height="897" alt="Screenshot 2026-04-14 122824" src="https://github.com/user-attachments/assets/020e001b-e208-4c4e-a622-8654f09fdbf2" />
