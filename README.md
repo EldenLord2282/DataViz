@@ -53,6 +53,10 @@ This project demonstrates how data can be analyzed and visualized effectively us
    python dataviz.py
    ```
 
+      or
+
+3. Check the latest release and directly dowload the dataviz.exe file to run directly on your system
+
 ---
 
 ## 📊 Use Case Examples
